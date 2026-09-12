@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { FaGithub, FaExternalLinkAlt, FaArrowUpRightFromSquare } from 'react-icons/fa';
+import { FaGithub, FaExternalLinkAlt } from 'react-icons/fa';
 
 const projects = [
   {
